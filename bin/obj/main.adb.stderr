@@ -1,9 +1,0 @@
-main.adb:10:21: error: expect subtype mark for index constraint
-main.adb:14:04: error: no candidate interpretations match the actuals:
-main.adb:14:04: error: missing argument for parameter "Item" in call to "Get_Line" declared at a-tiunio.ads:52
-main.adb:14:04: error: too many arguments in call to "Get_Line"
-main.adb:14:04: error: missing argument for parameter "Last" in call to "Get_Line" declared at a-textio.ads:479
-main.adb:14:04: error: missing argument for parameter "Item" in call to "Get_Line" declared at a-textio.ads:469
-main.adb:14:13: error: expected private type "Ada.Strings.Unbounded.Unbounded_String"
-main.adb:14:13: error: found type "Standard.String"
-main.adb:14:13: error:   ==> in call to "Get_Line" at a-tiunio.ads:57
