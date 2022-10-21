@@ -1,0 +1,6 @@
+main.adb:22:10: error: cannot use call to function "Posicion_Final" as a statement
+main.adb:22:10: error: return value of a function call cannot be ignored
+constantes.ads:3:04: error: constant declaration requires initialization expression
+constantes.ads:4:04: error: constant declaration requires initialization expression
+constantes.ads:5:04: error: constant declaration requires initialization expression
+constantes.ads:6:04: error: constant declaration requires initialization expression
