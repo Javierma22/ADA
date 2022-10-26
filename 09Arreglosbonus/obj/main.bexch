@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\GNAT\CursoADA\09Arreglosbonus\arreglosbonus.gpr
+20221025061556 cec90774b81babb4ae4478b2780b2fbf
+[BOUND OBJECT FILES]
+C:\GNAT\CursoADA\09Arreglosbonus\obj\float_array.o
+C:\GNAT\CursoADA\09Arreglosbonus\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\GNAT\CursoADA\09Arreglosbonus\obj\
+-LC:\GNAT\CursoADA\09Arreglosbonus\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

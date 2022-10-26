@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file>C:\GNAT\CursoADA\07Registros\registros.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\07Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\07Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 24" >
+      <vfs_project>C:\GNAT\CursoADA\07Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\07Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 45" line=" 25" >
+      <vfs_project>C:\GNAT\CursoADA\07Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\07Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 56" line=" 21" >
+      <vfs_project>C:\GNAT\CursoADA\07Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\07Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 26" >
+      <vfs_project>C:\GNAT\CursoADA\07Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\07Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 18" >
+      <vfs_project>C:\GNAT\CursoADA\07Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\07Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\07Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\07Registros\src\main.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 71" line=" 26" >
+      <vfs_project>C:\GNAT\CursoADA\07Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\07Registros\src\main.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
