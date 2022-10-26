@@ -1,0 +1,21 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\GNAT\CursoADA\Ejercicios\10EjercicioArray\ejercicio.gpr
+20221026092438 8dbe1ce1426d2754d4b4af041b113543
+[BOUND OBJECT FILES]
+C:\GNAT\CursoADA\Ejercicios\10EjercicioArray\obj\io.o
+C:\GNAT\CursoADA\Ejercicios\10EjercicioArray\obj\libreria_personas.o
+C:\GNAT\CursoADA\Ejercicios\10EjercicioArray\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\GNAT\CursoADA\Ejercicios\10EjercicioArray\obj\
+-LC:\GNAT\CursoADA\Ejercicios\10EjercicioArray\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
