@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\GNAT\CursoADA\14Objetos\objetos.gpr</vfs_file>
+    <file_marker column=" 4" line=" 10" >
+      <vfs_project>C:\GNAT\CursoADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\14Objetos\src\personaje.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 53" line=" 11" >
+      <vfs_project>C:\GNAT\CursoADA\14Objetos\objetos.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\14Objetos\src\personaje.ads</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

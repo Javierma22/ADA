@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 20" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\juego.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 27" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\juego.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 17" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\#35;juego-ads#35;.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 20" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 20" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 20" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\juego.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\juego.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\juego.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 18" line=" 3" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 14" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\11Registros\registros.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\11Registros\src\juego.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

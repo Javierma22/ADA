@@ -1,0 +1,2 @@
+juego.adb:1:14: error: missing body for "To_String" declared at juego.ads:25
+juego.adb:5:30: error: invalid operand types for operator "&"

@@ -1,0 +1,9 @@
+main.adb:7:11: error: "Campeon" is not visible
+main.adb:7:11: error: multiple use clauses cause hiding
+main.adb:7:11: error: hidden declaration at personaje.ads:16
+main.adb:7:11: error: hidden declaration at personaje.ads:8
+main.adb:10:04: error: invalid prefix in selected component "Khazix"
+main.adb:11:04: error: invalid prefix in selected component "Khazix"
+main.adb:12:13: error: invalid prefix in selected component "Khazix"
+personaje.ads:10:04: error: declaration of full view must appear in private part
+personaje.ads:16:09: error: "Campeon" conflicts with declaration at line 8
