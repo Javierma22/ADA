@@ -1,0 +1,4 @@
+main.adb:24:04: error: no candidate interpretations match the actuals:
+main.adb:24:04: error: function name found in procedure call
+geometria.ads:6:26: error: "Clase_Animal" is undefined (more references follow)
+geometria.ads:12:15: error: subprogram "Calcular" is not overriding

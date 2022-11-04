@@ -1,0 +1,158 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_file>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 81" line=" 15" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 26" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 5" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 81" line=" 15" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\io.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 9" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 5" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 21" line=" 12" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 13" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 14" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 16" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 37" line=" 9" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 14" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 38" line=" 16" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 15" line=" 9" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 6" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 30" line=" 16" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 9" line=" 5" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 24" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\io.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 24" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 25" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 25" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 26" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 25" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 24" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 25" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 24" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 68" line=" 10" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 12" line=" 11" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 8" line=" 21" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 23" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 33" line=" 3" >
+      <vfs_project>C:\GNAT\CursoADA\16EjercicioHerencia\herencia.gpr</vfs_project>
+      <vfs_file>C:\GNAT\CursoADA\16EjercicioHerencia\src\geometria.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
